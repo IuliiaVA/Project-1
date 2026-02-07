@@ -1,0 +1,368 @@
+Living standards, poverty and inequality in the UK
+Key research, data and resources that show how and why living standards and poverty have changed since 1961.
+
+How have household incomes evolved over your lifetime? What is the gap between rich and poor? How many people are there in poverty? Which groups are most likely to face poverty? These questions are fundamental to understanding the living standards of households across the UK, and have long been the subject of research at IFS. 
+
+Here we provide the latest data on household incomes, poverty rates and income inequality, based on the methodology used in DWP's official HBAI statistics.
+
+Related content
+New data suggest dramatic decline in living standards, but it may just be the quality of the data that has declined
+Comment | 27 March 2025
+Living standards, poverty and inequality in the UK: 2024
+Report | 25 July 2024
+Contents
+How have incomes changed over time?
+What is income poverty? How have poverty rates changed over time?
+How unequal are incomes in the UK?
+How do incomes vary between and within UK regions?
+Glossary and methodology
+Download more data 
+Annual reports
+How have incomes changed over time?
+We measure household income by adding up different sources of income such as earnings from employment or self-employment, benefits, pension income and interest from savings, and then deducting taxes (income tax, National Insurance contributions, and local taxes, e.g. council tax). 
+
+We adjust incomes with inflation to show real incomes in 2023-24 prices and rescale or ‘equivalise’ incomes to account for the fact that households of different sizes and compositions have different needs. Throughout, we show two versions of household incomes: one before housing costs are deducted and one after housing costs are deducted.
+
+This chart shows the median (middle) annual household income for different groups in the UK. Click on the household groups in the legend to toggle them on and off and compare how the incomes of different groups have changed over time. For example, the median household income for pensioners tells us the total household income for the middle pensioner in the population. Switch between the top tabs to see how these incomes change before and after deducting housing costs.
+
+Are household incomes the best way of measuring living standards?
+What is income poverty? How have poverty rates changed over time?
+Poverty rates summarise how low-income households’ living standards have changed over time. They measure the proportion of people with incomes below a poverty line threshold. There are two main measures we use, absolute and relative poverty, which we explain below. We usually look at incomes after housing costs are deducted when measuring poverty, as this measure can be better at identifying those with low living standards. There are a few theoretical reasons why comparing income with housing costs deducted might be a better way of comparing living standards in some cases, detailed on the methodology page. 
+
+One downside of these sorts of ‘headcount’ poverty measures is that they only show the number of people below the poverty line – and do not vary with the depth of poverty. In other words, a household whose income is £1 below the poverty line shows up as ‘in poverty’ in just the same way as a household with no income at all. Relatedly, any poverty line is necessarily arbitrary – the living standards a household experiences will not change much as it moves from just below to just above a poverty line. For this reason, changes in the poverty rate over time, or differences between groups, are more informative than the headline level of poverty at any point in time.
+
+Absolute poverty is the proportion of people whose household incomes are below a poverty line that is fixed over time. The official absolute poverty line, which we use below, is 60% of the 2010 inflation-adjusted median income.
+
+Why use absolute poverty?
+
+Relative poverty is the proportion of people whose household incomes are below a poverty line that changes over time to reflect average living standards. The official relative poverty line, which we use below, is 60% of contemporaneous median income.
+
+Why use relative poverty?
+
+How unequal are incomes in the UK?
+Income inequality describes how evenly or unevenly income is distributed across a population.
+
+It can take lots of different forms and there are lots of ways of measuring it.
+
+A good way to investigate income inequality is to first split the population into income percentiles. For example, to be at the 10th income percentile, you’d need to have a household income higher than the bottom 10% of the population, but lower than the other 90%, meaning you would be near the bottom of the income distribution.
+
+This chart is known as a ‘Pen’s parade’ and shows the level of income at each percentile of the distribution. It is useful for comparing the household incomes of richer and poorer people. Use the slider to show the Pen’s parade in different years, to see visually how inequality has changed over time.
+
+
+Another way to see how income inequality has changed over time is the following chart – known as a ‘growth incidence curve’. This shows the average annual percentage growth in incomes at each percentile of the income distribution, for selected time periods. Enter a date range between 1961 and 2023 in the search box in the chart below to see how income growth varied across the distribution over that period.
+
+
+What are the major trends in income inequality?
+Rather than working out how all the parts of the income distribution have changed, there are lots of measures that allow us to summarise different types of inequality in different ways. Each has various advantages and disadvantages.
+
+Percentile ratios
+Percentile ratios are the ratios of different percentiles of the income distribution to each other.
+
+For example, the 90:10 ratio compares the 90th percentile of incomes (the income of the person richer than 90% of the population) with the 10th percentile (the income of the person richer than 10% of the population). The higher the number, the greater the income inequality is between these two groups.
+
+Percentile ratios are useful for showing which parts of the income distribution are becoming more unequal. A growing 90:50 ratio means there is a widening gap between those near the top of the income distribution and those in the middle. A growing 50:10 ratio means there is a widening gap between those on middle incomes and those near the bottom of the distribution.
+
+
+Gini coefficient
+The Gini coefficient is a popular summary measure which takes account of incomes right across the distribution.
+
+A perfect equality score would be a Gini of 0 (everyone has the same household income) and a perfect inequality score would be a Gini of 1 (one person has all the household income). The higher the Gini score, the more income inequality there is.
+
+But the Gini score is only a broad summary – there’s lots it doesn’t tell us. If the Gini increases, this might be because inequalities increase across the income distribution. Or it might be because inequality between the very top and everyone else has increased but gaps elsewhere have remained the same.
+
+
+Top income shares
+Top income shares show how much income is held by households in the top of the income distribution.
+
+If there was no income inequality, those with incomes in the top 10% would have 10% of the country’s total income. The higher the share of income this top 10% have, the more inequality there is between them and the rest of the income distribution.
+
+However, the very highest incomes are difficult to capture and measure using survey data, so estimates of income shares of the very top are likely to be less precise than some other measures. (See the methodology page for details of adjustments we make to at least partially account for this.)
+
+
+How do incomes vary between and within UK regions?
+This section looks at inequality between and within the regions and nations of the UK, a subject of continuing public debate (see Levelling up).
+
+The UK’s nations and regions have significant differences in housing costs, meaning that median incomes can change drastically once housing costs are deducted.
+
+
+Does deducting housing costs give a more accurate picture of regional inequalities in living standards?
+These maps show the median (middle) income of each region and compare it with the UK-wide average.
+
+The left-hand map shows the disparities in terms of total disposable income before housing costs are deducted. The right-hand map shows the same for incomes after housing costs are deducted, and reflects that even though a region may have a relatively high total average income, incomes may not be as high once you account for housing costs.
+
+Hover over or click on the different regions to see their median household incomes before and after housing costs.
+
+
+Even aside from the issue of differing housing costs, regional inequality is not a straightforward story of richer regions and poorer regions. 
+
+A region that is rich on average might still contain a significant proportion of poorer households, and vice versa.
+
+The following four maps show the percentage of people who are in poverty and the percentage of people who are in the richest 10% of the UK-wide income distribution in each region, both before and after deducting housing costs.
+
+Hover over or click on the different regions to compare.
+
+Glossary and methodology
+This glossary summarises some of the key concepts that are important to understanding the household income charts on this page.
+
+Our methodology page contains much more detailed information on the calculations behind the statistics, and our data spreadsheet provides more data on household incomes.
+
+Equivalisation
+Larger households require more income to attain the same material living standards as smaller households. Therefore we equivalise incomes, meaning we adjust them to reflect different household sizes. If two households of different sizes had the same unequivalised income, the larger one would have lower equivalised income since that income must be shared amongst more people. We don’t just divide by the number of people, as there are economies of scale from living with others. Different scales are used depending on whether we look at incomes before or after deducting housing costs.
+
+Throughout we equivalise so that incomes reflect the amount for a childless couple. This means that a family of any size with £30,000 equivalised income should have the same material standard of living as a childless couple on £30,000. 
+
+Gini coefficient
+The Gini coefficient is a summary measure of inequality, which is affected by incomes across the income distribution.
+
+Calculating and interpreting the Gini is complicated. To calculate it, you must calculate the difference in equivalised household incomes between every possible pair of individuals, take the mean of these and divide it by the overall mean income.
+
+But the important thing to remember is that, broadly speaking, the higher the Gini score, the more income inequality there is. A perfect equality score would be a Gini of 0 (everyone has the same household income) and a perfect inequality score would be a Gini of 1 (one person has all the household income and everyone else has zero). 
+
+Household income
+Household income is the sum of a household’s incomes from various sources such as earnings, pensions, benefits and savings, less the taxes it pays. For each individual we report their equivalised household income, implicitly assuming that income is shared equally between household members when using it to measure standards of living. All members of the household, including adults and children, will be allocated the same equivalised household income. By ‘household’ we mean everyone living in a property, whether or not they are the same family.
+
+Housing costs
+When we analyse housing costs, we include (where applicable) rent, payments of mortgage interest, service charges, ground rent and service charges, buildings insurance and water rates.
+
+Repayments of the principal on a mortgage are not included. There are arguments for and against this approach, which is standard when calculating poverty statistics, but the main reason for omitting these payments is that they are akin to saving, and the wealth built up could be used for consumption in the future (e.g. if a household downsizes or uses an equity-release product).
+
+Median income and income percentiles
+The median is a type of average. The median income is the income of the person in the middle of the income distribution – half are richer than them and half are poorer. Unlike the mean income, which can be driven by very high incomes, the median income can be thought of as a ‘typical’ income.
+
+Income percentiles, such as the 10th or 60th percentile, tell us about incomes at other points in the distribution. For example, 60% of people have a household income less than the 60th income percentile and 40% have more than this.
+
+Real incomes and deflation
+Throughout this page we look at real incomes, meaning that we deflate to account for inflation. This is because we want to use income to measure material standards of living, but a given amount of income does not have the same purchasing power over time. 
+
+As an example, if ‘nominal’ incomes (the cash amounts people actually see) increase by 5%, but prices increase by 2%, then real incomes only increase by roughly 3%, meaning households can purchase 3% more goods and services. We report incomes over time in terms of 2023-24 prices. 
+
+We use a measure of inflation that includes mortgage interest and rents for incomes before deducting housing costs, and a different measure that excludes these for incomes after deducting housing costs.
+
+Young people are the future. They are also arguably the most affected by and best placed to comment on the social mobility landscape. They have the most recent first-hand experience of the education system, are facing some of the largest challenges in the ongoing housing crisis, and are likely to be the most active in exploring the country’s employment opportunities as they navigate their early careers.
+
+So what are their views when it comes to equality of opportunity in Britain today? Here we examine young peoples’ (18-24 year-olds) views on social mobility and social inequality, based on recent nationwide polling carried out by More in Common for the Sutton Trust.
+
+On inequality
+
+Looking at the broader population, people in Britain recognise there is a big class gap today, with children from richer families getting better opportunities than others. However, younger people showed a greater awareness of these social inequalities than the population as a whole.
+
+Only about 1 in 5 18-24 year-olds think that every young person in the UK has the same opportunity to succeed (21%), slightly lower than the 1 in 4 (25%) who said the same in the general population. More than half say it is harder for young people to have success now than it was for older generations (57% compared to 47% more widely). Similarly, 75% say coming from a wealthy family is important for getting ahead in life (compared to just 68% saying the same in the general population) and 84% (compared to 78%) think that knowing the right people is either very or somewhat important to getting ahead in life.
+
+
+Figure 1: How important do you think coming from a wealthy family is in helping people get ahead in life?
+
+Asked what the main barriers are to succeeding in life, young people much more commonly identify not having wealthy parents (26% compared to 14%), lack of access to good education (38% vs 29%), discrimination (26% vs 36%) and lack of job opportunities where you live (36% vs 30%) when compared to the wider population (see Figure 2).
+
+
+Figure 2: Which, if any, of the following are the biggest barriers to succeeding in life? Select up to three.
+
+Like the general population, though again more emphatically, young people strongly support principles of fairness and equal opportunity – for example, 78% say that the government should focus on equal educational opportunities for all young people because it is unfair not to do so, compared to just 67% saying the same in the general population.
+
+On education
+
+Young people are far more critical of the inequality of school admissions than the general public. More than half (55%) think that access to the best state schools is unequal for different types of families, compared to just 37% of the population overall.
+
+Young people are also more likely to link a good education to succeeding in life. 38% see the lack of access to good education as a barrier to succeeding in life (vs 29% of the general population), 75% say that a government focus on equal educational opportunities would reduce inequality (vs 60% more widely) and 79% say it would help reduce crime and keep people safer (vs 66% in the general population).
+
+This appreciation of good education is also reflected in much greater importance (62% vs 51%) being attached to university for helping people get ahead in life (see Figure 3). Young people are also much more likely (59% vs 42%)) to say they think their children should go to university.
+
+
+Figure 3: How important do you think going to university is in helping people get ahead in life?
+
+What should be done to tackle inequality?
+
+The clear majority of young people feel it is the government’s place to ensure fair access to job (86% vs 69% for the general population) and educational opportunities (86% vs 81% of the wider population). 18-24 year-olds are also more likely than average to say it is fair that government provides additional support to some children because not everyone has the same start in life (72% vs 63%) and 97% say it is either quite or very important to improve social mobility in the UK (vs 87% more widely)
+
+Young people are also more likely than most to say that pre-school education should be free (60% vs 52%) and they are more positive than the general population (60% vs 53%) about social mobility initiatives helping those who need it. They are much more positive on the advantages that social mobility initiatives could bring for their children (74% vs 45%). This reflects a stronger optimism that young people seem to show for future generations: 42% say they think their children will have better opportunities in life than themselves compared to just 32% in the general population.
+
+Looking to the future
+
+This polling gives us a snapshot of how this generation of young adults view inequality today. With social mobility seemingly a greater priority and a heightened awareness of the nature and implications of social inequalities than the population at large, this data gives hope for even greater public support for efforts to tackle inequality of opportunity in the decades ahead.
+
+A Tale of Two Britains
+The gap between rich and poor is growing- income and wealth
+are concentrated at the top while those at the bottom face
+increasingly hard times
+Inequality is a growing problem in the UK. Whilst austerity measures in Britain continue to hit
+the poorest families hardest, a wealthy elite have seen their incomes spiral upwards,
+exacerbating income inequality which has grown under successive governments over the last
+quarter of a century.
+Since the mid 1990s the incomes of the top 0.1 percent have grown almost 4 times faster than
+the incomes of the bottom 90 percent of the population. In real terms, that means the richest
+0.1 percent have seen their income grow by more than £461 a week, the equivalent of over
+£24,000 a year. That’s enough to buy a small yacht or a sports car. By contrast the bottom 90
+per cent have experienced a real terms increase of only £147 a year – insufficient to insure a
+family car. That equates to £2.82 a week – the average cost of a large cappuccino.
+Today, the five richest families in the UK are wealthier than the bottom 20 per cent of the
+entire population. That’s just five households with more money than 12.6 million people –
+almost the same as the number of people living below the poverty line in the UK.
+The extreme levels of wealth inequality occurring in Britain today threaten to exclude the
+poorest, whose standards of living are being squeezed as they are hit by increasing costs for
+basics like food and energy bills and cuts to services and support when they are most needed.
+Starting with this week’s Budget, the Government needs to re-balance the books by raising
+revenues from those who can afford it - by clamping down on companies and individuals who
+avoid paying their fair share of tax and starting to explore greater taxation of extreme wealth –
+rather than relying on cuts to services that disproportionately impact on the poorest in society,
+some 13 million people who are currently classed as living below the poverty line.
+ritain in the 21st Century is a deeply divided nation. Whilst a handful of people at the top have
+never had it so good, millions of families are struggling to make ends meet.
+Growing numbers of Britons are turning to charity-run foodbanks, yet at the same time the highest
+earners in the UK have had the biggest tax cuts of any country in the world. And whilst low-paid
+workers are seeing their wages stagnate, the super rich are seeing their pay and bonuses spiral
+up.
+Oxfam’s new figures show just how stark the divide between Britain’s richest and the rest is.
+B
+• The most affluent family in the UK (Gerald Cavendish Grosvenor and family), have more
+wealth than the poorest 10 percent of the population, 6.3 million people (£7.9 and £7 billion
+respectively).
+• The richest 5 families in Britain are wealthier than the bottom 20 percent of the population
+in the UK (with a wealth of £28.2 billion and £28.1 billion respectively).
+• Incomes for the bottom 90 percent increased by 27 percent between 1993 and 2011.
+Incomes for the richest 0.1 percent increased by 101 percent over the same time
+period. In other words, the incomes of the top 0.1 percent have grown almost 4 times
+faster than for the bottom 90 percent of the population.
+• Once you factor in increases in the cost of living over the last ten years, then the real
+squeeze for the majority of Britons becomes apparent as does the divide between those at
+the top and the rest. Since 2003 the majority of the British public (95 percent) have seen a
+12 percent real terms drop in their disposable income (after housing costs), whilst the
+richest 5 percent of the population have seen their disposable income increase.
+Oxfam’s analysis: numbers and methodology
+Oxfam used the latest list of billionaires from Forbes released on March 4, 2014 to calculate the
+accumulated wealth of the richest families in Britain and data from Credit Suisse Global Wealth
+Databook to calculate the wealth of the bottom 10 and 20 percent of the population.
+To calculate changes in income since 1993 (the earliest year with comparable data on income), Oxfam
+used the Top Income Database. For the changes in income for 95 percent of the population after
+housing costs, Oxfam used data from the Family Resources Survey 2002-2003 to 2011-2012 (data for
+which the survey has comparable methodology) as reported by the Institute For Fiscal Studies’ “Living
+Standards, Poverty and Inequality in the UK: 2013.”
+
+The richest and the rest – a global perspective
+Economic inequality is far from being a UK only problem - a similar picture of a rapidly increasing
+gap between rich and poor can be seen in most countries across the globe. The entire wealth of
+the world is divided in two: almost half going to the richest 1 percent; the other half to the
+remaining 99 percent. Working For the Few, an Oxfam report published ahead of this year’s World
+Economic Forum in Davos, revealed that the richest 85 people on the planet own the same
+amount between them as half the world’s population – that’s 3.5 billion people.
+This widening inequality is creating a vicious circle where wealth and power are increasingly
+concentrated in the hands of a few, leaving the rest behind. Our report showed that increasing
+inequality is allowing the wealthy to capture government policymaking. This means the rules are
+constantly rewritten in favour of the rich, for example through policies such as like lower taxes for
+high earners.
+Seven out of 10 people in the world live in countries where economic inequality has increased in
+the last 30 years.
+Inequality has shot up the global agenda recently, with leaders and influential figures from
+President Obama to the Pope making the issue a key priority for 2014.
+Taxing times
+Tax evasion, by companies and individuals, costs the UK economy billions of pounds every year. The
+‘tax gap’ – the total amount of missing tax money the Treasury is owed – is estimated to be around £35
+billion a year.
+Of that tax gap, Oxfam estimates that at least £5.2 billion a year is being evaded by wealthy individuals
+who use tax havens. That’s the equivalent of £200 a year for every single household in the UK.
+The Government has made a good start on cracking down on tax evasion, including at the 2013 G8, but
+needs to continue to increase transparency and accountability – for instance with effective legislation on
+Beneficial Ownership – and ensure that HMRC are well resourced for the task.
+Surviving on a shoestring
+One in five people in the UK are living in poverty - cuts to social security and public services are
+combining with falling incomes and rising costs for basics like food and fuel bills to create a deeply
+damaging situation in which millions are struggling to get by. Although unemployment numbers are
+falling, the number of people in insecure jobs is on the rise and many are on wages that don’t pay
+enough to make ends meet. For the first time, more working households are living in poverty in the
+UK than non-working ones. In 2012 just over half of the 13 million people in poverty were from
+working families.
+Austerity policies are massively increasing poverty and inequality in the UK - damage that could
+take two decades or more to reverse. Our research suggests 800,000 children and an extra 1.9
+million adults in the UK could be pushed into poverty by 2020. The unprecedented rise of over
+500,000 Britons needing emergency aid from food banks is just one example among many of what
+poverty looks like in the UK.
+There is significant public concern about the lack of say ordinary people have in the changes that
+affect their lives. According to a recent Oxfam poll, more than two thirds of the British population
+think the rich have too much influence over where the country is headed.
+Case Study: “The bills are going up but the money isn’t”
+Anna, 35, lives in Devon, with her partner Mike and their children. Mike works full time at an electronics
+company, whilst Anna is a stay at home mum.
+“They’ve been laying off people at Mike’s work at the minute, so he’s constantly terrified that he’s going
+to lose his job. He brings home between £1000 and £1100 a month. It’s alright, but not great when you
+consider that our rent is £800 per month, it doesn’t go very far at all. We get help with tax credits but it’s
+getting harder and harder to pay the bills every month and not charge things on the credit cards. The
+bills are going up and the money isn’t.
+“Personally, I feel so strongly about how there is so much inequality in our society and it's getting
+worse. There are all these people looking down their noses at the ‘undeserving poor’ and it really
+makes me cross. We’re being kept poor. We’re being kept in a position where we aren’t able to improve
+our lives.
+“I mean who’s the real scrounger? Someone who might get seventy pound per week because they
+haven’t got a job, or someone who gets a ridiculous amount of money in bonuses after they bankrupted
+the country? I’d like to be able to earn a wage myself… there is no way for us to get out of this position
+until somebody does something about the cost of housing and other stuff. The people who can afford to
+pay for it are getting away scot free.”
+Why does Oxfam care about inequality?
+Extreme economic inequality is damaging because of the negative impact it has on poverty
+reduction and overall prosperity. It multiplies social problems and compounds other inequalities
+such as those between men and women. In many cases extreme economic inequality causes
+unequal political representation: those with the most money are able to rig the rules, and influence
+government policy in their favour, often at the expense of everyone else.
+For many workers across the globe, doing a day’s work doesn’t necessarily mean they earn
+enough to live on, and companies are making profits whilst workers wages and conditions are not
+enough to live decent lives.
+Whilst the opportunity to prosper is an important incentive that helps drive the economy and
+implies some level of inequality, even the International Monetary Fund’s recent study finds that
+extreme income inequality undermines both the pace and sustainability of economic growth. The
+IMF also made the case that redistribution efforts – including progressive taxation and spending on
+health and education – are pro-growth.
+In developed and developing countries alike we are increasingly living in a world where the lowest
+tax rates, the best health and education and the opportunity to influence are being given not just to
+the rich but also to their children.
+For decades, Oxfam has worked to increase access to high-quality health care and education.
+Despite great progress, millions of families in the poorest countries are not able to send their
+children to school or pay for healthcare should anyone fall sick. Governments don’t have the
+money to pay for these basic essential services - not because the money isn’t there, but because
+the richest and most powerful aren’t paying their fair share.
+While many rich people use a portion of their wealth to support individual good causes, this should
+not be used as an excuse for governments failing to tackle the problem of growing inequality.
+Oxfam’s call to action
+All parties need to focus on reducing inequality and consider how they will:
+Tackle unfair tax rules to combat inequality and ensure those who can afford it are
+paying their fair share: Clamp down on tax dodgers by improving transparency and
+accountability standards in global and UK tax rules and increasing government capacity to
+tackle tax evasion.
+Look at ways of raising revenue through progressive taxation and balancing the books
+on the shoulders of those who can afford it: In particular, the Government should
+implement a financial transactions tax to ensure the financial sector contributes its fair share,
+and focus on the greater taxation of wealth, by exploring things like a land value tax.
+Ensure that the strategy to reduce the deficit does not hitting the poorest hardest: Use
+the revenue from more progressive taxation to prevent long-term damage caused by cuts to
+social security and public services. Support women and parents to be part of the country’s
+return to growth through the provision of universal affordable childcare.
+Ensure that work really pays for the poorest: Outline a long-term strategy for raising the
+minimum wage to a living wage, using tools such as government procurement to promote a
+living wage. Ensure that increasing the tax allowance really works for the poorest by also
+increasing the earnings disregard by £200 per year.
+Audit policy to ensure it is being designed to improve equality: We would like to see
+party manifestos include an analysis of the impact of their pledges on economic inequality in
+the UK.
+As a first step, we are calling on the Government to continue taking tough action to tackle tax
+dodging as part of this week’s Budget.
+
+Income inequality trends
+In 2022, households in the top 20% of the population had an average 
+disposable income
+ of £83,687, whilst the bottom 20% of the population had an average disposable income of just £13,218. This means the richest 20% have 6.3 times more to spend or save as they wish than the poorest 20% of the population.
+According to the ONS, median (middle point) disposable income for the poorest 20% fell by 3.8% (to £14,500) between 2021 and 2022 but increased for the top 20% of people by 1.6% (to £66,000).
+In 2022, the top 20% of society had 36% of the income whereas the bottom 20% had only 9% of the total income.
+Wealth inequality trends
+Oxfam reported in 2023, that the richest 1% of people in the UK held more wealth than 70% of the rest of the population together.
+The richest 50 families in the UK hold more wealth than the bottom 33.5 million people.
+If trends in income inequality continue, by 2035, the wealth of the richest 200 families will be larger than the whole UK Gross Domestic Product (GDP).
+Wealth inequalities tend to be wider than income inequalities.
+
+What is social inequality in the UK?
+Social inequality is the extent to which there are differences between groups in society. Social inequality can be related to:
+
+differences in incomes
+gender
+ethnicity
+disabilities and health issues
+age, ie children, young people, middle aged, pensioners
+A huge range of reports and statistics published annually detail links between poverty, life expectancy, unemployment, mortality (death) and morbidity (illness) rates and help to measure levels of inequality. Information can be Scottish or UK-based or can involve international comparisons.
+
+Using reports and statistics
+When referring to reports and statistics, it is important to recognise that each different source of information may have its own way of expressing inequality and compiling statistics. It is essential to ensure statistics are explained accurately and sources of information are cited for reference.
