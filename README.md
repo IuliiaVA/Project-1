@@ -13,7 +13,6 @@ It searches for explicit causal markers in sentences (e.g., `because of`, `due t
 
 ## Input
 - `Corpus.txt` — plain text file (English corpus)
-> The corpus file is not included in the repository.
 
 ## Output
 - `top_causes.csv` — table with columns:
