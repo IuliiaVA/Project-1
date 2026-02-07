@@ -5,3 +5,5 @@ outputs/
 Corpus.txt
 .DS_Store
 .ipynb_checkpoints/
+top_causes*.csv
+top_causes*.png
