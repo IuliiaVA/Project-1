@@ -52,15 +52,15 @@ ineq_keywords = {
 }
 
 cause_patterns = [
-    r"\bbecause of\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bdue to\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bas a result of\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bresult(?:s)? of\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bdriven by\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bcaused by\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\battributed to\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\bstemming from\s+([^.;:,\n\(\)\[\]]{5,200})",
-    r"\barising from\s+([^.;:,\n\(\)\[\]]{5,200})",
+    r"\bbecause of\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bdue to\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bas a result of\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bresult(?:s)? of\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bdriven by\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bcaused by\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\battributed to\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\bstemming from\s+([^.;:,\(\)\[\]]{5,200})",
+    r"\barising from\s+([^.;:,\(\)\[\]]{5,200})",
 ]
 
 def normalize_cause_fragment(fragment: str) -> str:
