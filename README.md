@@ -1,4 +1,4 @@
-# Inequality Causes Extractor (rule-based NLP)
+# Inequality causes extractor (rule-based NLP)
 
 This project extracts and ranks frequent **stated causes of inequality** from a text corpus.
 It searches for explicit causal markers in sentences (e.g., `because of`, `due to`, `driven by`, `caused by`), then normalizes the extracted fragments (tokenization, lemmatization, stopword removal) and aggregates them by frequency.
