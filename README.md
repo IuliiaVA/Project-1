@@ -16,7 +16,7 @@ It searches for explicit causal markers in sentences (e.g., `because of`, `due t
 > The corpus file is not included in the repository.
 
 ## Output
-- `top_causes(1).csv` — table with columns:
+- `top_causes.csv` — table with columns:
   - `cause` — normalized cause phrase
   - `count` — frequency
   - `example` — one example sentence where the cause was found
