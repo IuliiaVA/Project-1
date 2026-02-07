@@ -85,18 +85,15 @@ for s in sentences:
         continue
 
     for rx in cause_patterns:
-        m = re.search(rx, s_low)
-        if not m:
-            continue
+        for m in re.finditer(rx, s_low):
+            frag = m.group(1)
+            frag = re.split(r"\b(and|but|while|whereas|which)\b", frag, maxsplit=1)[0]
+            norm = normalize_cause_fragment(frag)
 
-        frag = m.group(1)
-        frag = re.split(r"\b(and|but|while|whereas|which)\b", frag, maxsplit=1)[0]
-        norm = normalize_cause_fragment(frag)
-
-        if norm:
-            cause_phrases.append(norm)
-            if norm not in cause_examples:
-                cause_examples[norm] = s.strip()
+            if norm:
+                cause_phrases.append(norm)
+                if norm not in cause_examples:
+                    cause_examples[norm] = s.strip()
 
 if cause_phrases:
     cause_fdist = FreqDist(cause_phrases)
@@ -109,19 +106,21 @@ if cause_phrases:
     plt.title("Top-30 causes (from causal statements about inequality)")
     plt.xlabel("Frequency")
     plt.ylabel("Cause")
-    plt.show()
+    plt.tight_layout()
+    plt.savefig("top_causes.png", dpi=170)
+    plt.close()
+    print("Saved: top_causes.png")
 
     for c, n in top_causes[:15]:
         print(f"{n:3d}  {c}\n     e.g. {cause_examples.get(c, '')}\n")
+
+    df_causes = pd.DataFrame([
+        {"cause": c, "count": n, "example": cause_examples.get(c, "")}
+        for c, n in top_causes
+    ])
 else:
     print("No causal reasons found with current patterns.")
-
-df_causes = pd.DataFrame([
-    {"cause": c, "count": n, "example": cause_examples.get(c, "")}
-    for c, n in top_causes
-])
+    df_causes = pd.DataFrame(columns=["cause", "count", "example"])
+    
 df_causes.to_csv("top_causes.csv", index=False)
 print("Saved: top_causes.csv")
-
-from google.colab import drive
-drive.mount('/content/drive')
